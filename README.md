@@ -31,7 +31,6 @@ UICollectionView with two column and mulitple row without UICollectionViewLayout
     
 
 ![alt text](https://github.com/yash-np/CollectionView/blob/master/CollectionViewDemo/screenshots/Default_UICollectionView.png)
-![Default](https://github.com/yash-np/CollectionView/blob/master/CollectionViewDemo/screenshots/Default.png)
 
     func getCompositionalLayout() -> UICollectionViewCompositionalLayout {
         //--------- Group1 Item 1 ---------//
@@ -93,4 +92,3 @@ UICollectionView with two column and mulitple row without UICollectionViewLayout
         
     }
 ![alt text](https://github.com/yash-np/CollectionView/blob/master/CollectionViewDemo/screenshots/Instagram_Explore_.png)
-![Default](https://github.com/yash-np/CollectionView/blob/master/CollectionViewDemo/screenshots/Instagram_Explore.png)
