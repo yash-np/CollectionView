@@ -10,9 +10,7 @@ UICollectionView using UICollectionViewCompositionalLayout
 
 
 UICollectionView with two column and mulitple row without UICollectionViewLayout size
-
     func getCompositionalLayout() -> UICollectionViewCompositionalLayout {
-       
         
         //--------- Group 1 Item 1 ---------//
         
@@ -29,10 +27,12 @@ UICollectionView with two column and mulitple row without UICollectionViewLayout
         let layout = UICollectionViewCompositionalLayout(section: section)
         return layout
         
-        
     }
-    ![Optional Text](../CollectionView/CollectionViewDemo/Image/Default_UICollectionView.png)
+    
+        
+        
     ![Optional Text](https://github.com/yash-np/CollectionView/blob/master/CollectionViewDemo/Image/Default.png)
+    ![Optional Text](../CollectionView/CollectionViewDemo/Image/Default_UICollectionView.png)
     ![Alt text](/CollectionView/CollectionViewDemo/Image/Default_UICollectionView.png?raw=true "Two column and mulitple row")
     ![Optional Text](../main/CollectionView/CollectionViewDemo/Image/Instagram_Explore_.png)
     ![Optional Text](../main/CollectionView/CollectionViewDemo/Image/Instagram_Explore.png)
