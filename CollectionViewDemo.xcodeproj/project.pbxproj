@@ -15,6 +15,11 @@
 		6949A4992789821900696E6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6949A4972789821900696E6A /* LaunchScreen.storyboard */; };
 		69E18601278AC978004E5267 /* NewExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E18600278AC978004E5267 /* NewExploreViewController.swift */; };
 		69E18604278ACC7D004E5267 /* OldExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E18603278ACC7D004E5267 /* OldExploreViewController.swift */; };
+		69F33AD2278D362C00461105 /* Default_UICollectionView.png in Resources */ = {isa = PBXBuildFile; fileRef = 69F33AD0278D362B00461105 /* Default_UICollectionView.png */; };
+		69F33AD3278D362C00461105 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 69F33AD1278D362B00461105 /* Default.png */; };
+		69F33AD7278D365800461105 /* Instagram_Explore_.png in Resources */ = {isa = PBXBuildFile; fileRef = 69F33AD4278D365800461105 /* Instagram_Explore_.png */; };
+		69F33AD8278D365800461105 /* Instagram_Explore.png in Resources */ = {isa = PBXBuildFile; fileRef = 69F33AD5278D365800461105 /* Instagram_Explore.png */; };
+		69F33AD9278D365800461105 /* Instagram_Exlore_new.png in Resources */ = {isa = PBXBuildFile; fileRef = 69F33AD6278D365800461105 /* Instagram_Exlore_new.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +33,11 @@
 		6949A49A2789821900696E6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69E18600278AC978004E5267 /* NewExploreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewExploreViewController.swift; sourceTree = "<group>"; };
 		69E18603278ACC7D004E5267 /* OldExploreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OldExploreViewController.swift; sourceTree = "<group>"; };
+		69F33AD0278D362B00461105 /* Default_UICollectionView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default_UICollectionView.png; sourceTree = "<group>"; };
+		69F33AD1278D362B00461105 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		69F33AD4278D365800461105 /* Instagram_Explore_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Instagram_Explore_.png; sourceTree = "<group>"; };
+		69F33AD5278D365800461105 /* Instagram_Explore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Instagram_Explore.png; sourceTree = "<group>"; };
+		69F33AD6278D365800461105 /* Instagram_Exlore_new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Instagram_Exlore_new.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +70,7 @@
 		6949A48B2789821700696E6A /* CollectionViewDemo */ = {
 			isa = PBXGroup;
 			children = (
+				69F33ACF278D360200461105 /* Image */,
 				69E18602278AC980004E5267 /* ViewController */,
 				6949A48C2789821700696E6A /* AppDelegate.swift */,
 				6949A48E2789821700696E6A /* SceneDelegate.swift */,
@@ -79,6 +90,18 @@
 				69E18603278ACC7D004E5267 /* OldExploreViewController.swift */,
 			);
 			path = ViewController;
+			sourceTree = "<group>";
+		};
+		69F33ACF278D360200461105 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				69F33AD6278D365800461105 /* Instagram_Exlore_new.png */,
+				69F33AD4278D365800461105 /* Instagram_Explore_.png */,
+				69F33AD5278D365800461105 /* Instagram_Explore.png */,
+				69F33AD0278D362B00461105 /* Default_UICollectionView.png */,
+				69F33AD1278D362B00461105 /* Default.png */,
+			);
+			path = Image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,9 +162,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69F33AD9278D365800461105 /* Instagram_Exlore_new.png in Resources */,
+				69F33AD2278D362C00461105 /* Default_UICollectionView.png in Resources */,
 				6949A4992789821900696E6A /* LaunchScreen.storyboard in Resources */,
+				69F33AD8278D365800461105 /* Instagram_Explore.png in Resources */,
 				6949A4962789821900696E6A /* Assets.xcassets in Resources */,
 				6949A4942789821700696E6A /* Main.storyboard in Resources */,
+				69F33AD7278D365800461105 /* Instagram_Explore_.png in Resources */,
+				69F33AD3278D362C00461105 /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
