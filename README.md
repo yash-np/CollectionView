@@ -31,11 +31,12 @@ UICollectionView with two column and mulitple row without UICollectionViewLayout
     
         
         
-    ![Optional Text](https://github.com/yash-np/CollectionView/blob/master/CollectionViewDemo/Image/Default.png)
+   
     ![Optional Text](../CollectionView/screenshots/Default_UICollectionView.png)
     ![Alt text](/CollectionView/screenshots/Default_UICollectionView.png?raw=true "Two column and mulitple row")
     ![Optional Text](../main/CollectionView/screenshots/Instagram_Explore_.png)
     ![Optional Text](../main/screenshots/Instagram_Explore.png)
     ![Optional Text](../main/CollectionView/screenshots/Instagram_Exlore_new.png)
-
 ![ScreenShot](/screenshots/Instagram_Exlore_new.png)
+![alt text](https://github.com/yash-np/CollectionView/blob/master/CollectionViewDemo/screenshots/Default.png)
+![Default](https://github.com/yash-np/CollectionView/blob/master/CollectionViewDemo/screenshots/Default.png)
